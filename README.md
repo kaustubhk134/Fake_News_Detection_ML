@@ -13,7 +13,7 @@ To run this project, you need the following Python libraries installed:
 - `scikit-learn` for machine learning.
 
 Start by cloning the repository and setting up the environment:
-1. Clone the repository using `git clone https://github.com/kaustubhk134/fake-news-detection.git` and navigate into it.
+1. Clone the repository using `git clone https://github.com/kaustubhk134/Fake_News_Detection_ML.git` and navigate into it.
 2. Install the required libraries with `pip install -r requirements.txt`.
 3. Place the `Fake.csv` and `True.csv` datasets in the project directory.
 
