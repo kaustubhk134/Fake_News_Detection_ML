@@ -26,4 +26,4 @@ To execute the project:
 
 This project is a comprehensive pipeline for detecting fake news and includes all steps from data preparation to result visualization. It also provides useful insights into the challenges of dealing with textual data and the effectiveness of machine learning in classification tasks.
 
-Feel free to fork the repository and contribute to the project. This project is licensed under the MIT License.
+Feel free to fork my repository and contribute to the project. This project is licensed under the MIT License.
